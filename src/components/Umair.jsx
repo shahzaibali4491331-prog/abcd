@@ -7,12 +7,9 @@ const Umair = () => {
       dano 
       kharo 
       basho 
-<<<<<<< Updated upstream
       <input type="text" placeholder='search'></input>
       <h1>Umair</h1>
       <button>click me</button>
-=======
->>>>>>> Stashed changes
     </div>
   )
 }
