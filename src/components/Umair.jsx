@@ -4,6 +4,9 @@ const Umair = () => {
   return (
     <div>
       Kam karda ay pata lgda ay 
+      dano 
+      kharo 
+      basho 
     </div>
   )
 }
