@@ -9,6 +9,8 @@ const ShahzaibAli = () => {
       <h1>dano</h1>
       <h1>basho</h1>
       <h1>kharo</h1>
+      <button type='button'>submit </button>
+      <h1>apple mango kha lo</h1>
     </div>
   )
 }
