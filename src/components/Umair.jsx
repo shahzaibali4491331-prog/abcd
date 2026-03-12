@@ -7,6 +7,9 @@ const Umair = () => {
       dano 
       kharo 
       basho 
+      <input type="text" placeholder='search'></input>
+      <h1>Umair</h1>
+      <button>click me</button>
     </div>
   )
 }
